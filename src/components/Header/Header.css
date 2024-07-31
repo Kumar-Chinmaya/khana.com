@@ -1,9 +1,10 @@
 .header{
-    height: 520px;
     margin: 30px auto;
-    background: url('./header_img.png') no-repeat;
     background-size: contain;
     position: relative;
+}
+.header img{
+    width: 100%;
 }
 .header-contents{
     position: absolute;
